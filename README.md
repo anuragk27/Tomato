@@ -9,25 +9,39 @@ https://anuragk27.github.io/Tomato/
 
 # SCREENSHOTS
 
-![home](https://github.com/user-attachments/assets/33dbd28c-f9b0-4960-88e1-cbe8fc815ccb)
 
-![menu](https://github.com/user-attachments/assets/713e1d1d-f3ef-4e96-8ebe-ffbf41518785)
+![home](https://github.com/user-attachments/assets/bb0af05b-6677-4d59-afaa-6cc288f7d5a4)
 
-![item1](https://github.com/user-attachments/assets/762c5572-a620-48b9-a93b-806fe64e02d0)
 
-![item2](https://github.com/user-attachments/assets/4617f714-a88c-4a3c-b164-b35f2ee9af4e)
+![menu](https://github.com/user-attachments/assets/01f34a6e-0047-4e4e-9f36-56b2ce0c6fb7)
 
-![app](https://github.com/user-attachments/assets/43c2f24c-452b-4224-b4e6-53074cb85b2c)
 
-![footer](https://github.com/user-attachments/assets/02ca2c1b-ff5c-4426-953a-166f2a441b07)
+![item1](https://github.com/user-attachments/assets/256aa2b7-93ea-4114-9789-a65ac3f8ed0b)
 
-![signup](https://github.com/user-attachments/assets/96935bfc-ea56-47c6-b4ab-5cc32b1290da)
 
-![login](https://github.com/user-attachments/assets/e45de921-ebfd-4c7e-a1c1-51f1332d7e6e)
+![item2](https://github.com/user-attachments/assets/65595f3b-f0d3-4c1d-a19d-764af753f3e9)
 
-![cart](https://github.com/user-attachments/assets/26c23df5-3911-46f9-be9a-7d556dad99e1)
 
-![payment](https://github.com/user-attachments/assets/f4056312-5c3a-4ab2-903b-b9e65f4cfc67)
+![app](https://github.com/user-attachments/assets/0a649790-b7c8-496b-a73c-ebc41063e784)
 
-![placeOrder](https://github.com/user-attachments/assets/ea35f828-c257-41c4-a9dd-c06aa81644f5)
+
+![footer](https://github.com/user-attachments/assets/0d74c648-d532-4691-b73c-75950d1d7be9)
+
+
+![signup](https://github.com/user-attachments/assets/654018f8-34bb-45d3-ba6c-0fe76be85aa1)
+
+
+![login](https://github.com/user-attachments/assets/ccdde1f3-03f7-4cbf-bbac-e640704ddfcb)
+
+
+![cart](https://github.com/user-attachments/assets/bd53dac9-d2a0-4e37-be0e-4c36b3d6aeae)
+
+
+![payment](https://github.com/user-attachments/assets/54168c0b-b1ce-445c-893d-dcc8caaf7cd9)
+
+
+![placeOrder](https://github.com/user-attachments/assets/c320593c-ebb3-4267-b398-ee689af42bf3)
+
+
+
 
