@@ -7,7 +7,7 @@
 
 https://anuragk27.github.io/Tomato/
 
-#SCREENSHOTS
+# SCREENSHOTS
 
 ![home](https://github.com/user-attachments/assets/33dbd28c-f9b0-4960-88e1-cbe8fc815ccb)
 
